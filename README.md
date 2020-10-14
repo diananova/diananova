@@ -1,7 +1,7 @@
 <h1 align=center> Hi there, I'm Diana 👋 </h1>
 
 <div>
-  <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+  <img width = "35%" align="right" alt="PIC" height="300px" src="https://image.freepik.com/free-vector/programmer-desktop-working-illustration_52683-26691.jpg" />
 <div align="left"> 
 <h3>🌻 &nbsp;About Me </h3>
 
