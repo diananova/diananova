@@ -5,7 +5,7 @@
 <div align="left"> 
 <h3>🌻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at the University of Genoa (Italy) graduating in 2022.
+- 🎓 &nbsp; Computer Science at the University of Genoa (Italy) graduating in 2022.
 - 💼 &nbsp; MLH Fellow (Explorer program) 
 - 🌱 &nbsp; Learning more about fullstack development.
 - 😄 &nbsp; Pronouns: she/her
