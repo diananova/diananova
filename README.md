@@ -13,8 +13,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/dianamukhanova/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/diananova25) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=diananova&show_icons=true)
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 <p>
@@ -30,9 +28,13 @@
 
 <p>
   
-  [Zusammen](https://github.com/MLH-Fellowship/zusammen): An app for non-professional teachers to teach. 
+  [Zusammen](https://github.com/MLH-Fellowship/zusammen): A web app for non-professional teachers to teach. 
+  [Recycling Toss](https://github.com/MLH-Fellowship/paper-toss): A game app to teach kids about recycling 
 
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diananova&show_icons=true)
+
 
 <!--
 **diananova/diananova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
