@@ -28,8 +28,8 @@
 
 <p>
   
-  [Zusammen](https://github.com/MLH-Fellowship/zusammen): A web app for non-professional teachers to teach. 
-  [Recycling Toss](https://github.com/MLH-Fellowship/paper-toss): A game app to teach kids about recycling 
+ - [Zusammen](https://github.com/MLH-Fellowship/zusammen): A web app for non-professional teachers to teach. 
+ - [Recycling Toss](https://github.com/MLH-Fellowship/paper-toss): A game app to teach kids about recycling 
 
 </p>
 
