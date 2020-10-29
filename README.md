@@ -29,7 +29,7 @@
 <p>
   
  - [Zusammen](https://github.com/MLH-Fellowship/zusammen): A web app for non-professional teachers to teach. 
- - [Recycling Toss](https://github.com/MLH-Fellowship/paper-toss): A game app to teach kids about recycling 
+ - [Recycling Toss](https://github.com/MLH-Fellowship/paper-toss): a 2D mobile game developed with React Native and react-native-game-engine to teach kids about recycling. 
 
 </p>
 
