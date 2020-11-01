@@ -5,7 +5,7 @@
 <div align="left"> 
 <h3>🌻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Computer Science at the University of Genoa (Italy) graduating in 2022.
+- 🎓 &nbsp; Computer Science student at the University of Genoa (Italy) graduating in 2022.
 - 💼 &nbsp; MLH Fellow (Explorer program) 
 - 🌱 &nbsp; Learning more about fullstack development.
 - 😄 &nbsp; Pronouns: she/her
@@ -29,7 +29,7 @@
 <p>
   
  - [iTeach](https://github.com/MLH-Fellowship/zusammen): A web app for non-professional teachers to teach. 
- - [Recycling Toss](https://github.com/MLH-Fellowship/paper-toss): a 2D mobile game developed with React Native and react-native-game-engine to teach kids about recycling. 
+ - [RecycleThis](https://github.com/MLH-Fellowship/paper-toss): a 2D mobile game developed with React Native and react-native-game-engine to teach kids about recycling. 
 
 </p>
 
