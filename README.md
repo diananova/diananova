@@ -29,8 +29,8 @@
 <p>
   
  - [iTeach](https://github.com/MLH-Fellowship/zusammen): A web app for non-professional teachers to teach. 
- - [RecycleThis](https://github.com/MLH-Fellowship/paper-toss): a 2D mobile game developed with React Native and react-native-game-engine to teach kids about recycling. 
- - [Discord Github Bot](https://github.com/MLH-Fellowship/github-discord-bot): This bot allows you to associate a Github repo to a Discord channel and get quick info such as summary, recent issues, pull requests, etc.
+ - [RecycleThis](https://github.com/MLH-Fellowship/paper-toss): A 2D mobile game developed with React Native and react-native-game-engine to teach kids about recycling. 
+ - [Discord Github Bot](https://github.com/MLH-Fellowship/github-discord-bot): A bot that associates a Github repo to a Discord channel and gets quick info such as summary, recent issues, prs, etc.
 
 </p>
 
