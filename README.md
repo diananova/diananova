@@ -4,7 +4,7 @@
 <div align="left"> 
 <h3>🌻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Computer Science student at the University of Genoa (Italy) graduating in 2022.
+- 🎓 &nbsp; Computer Science student at the University of Genoa (Italy)
 - 💼 &nbsp; Software Engineering intern at Microsoft (Prague 2021)
 - ✨ &nbsp; MLH Fellow (Explorer and Open Source program) 
 - 🌱 &nbsp; Learning more about fullstack development.
